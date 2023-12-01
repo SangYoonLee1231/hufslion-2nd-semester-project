@@ -4,14 +4,16 @@
 
 <img src="/presentation-title.png" />
 
-- 📽 <a href="https://youtu.be/ZBCXFvvFYyo">시연 영상</a>
+- 📽 <strong><a href="https://youtu.be/ZBCXFvvFYyo">시연 영상</a></strong>
 
-- 🖥 <a href="https://tattooyou.kro.kr/">배포 사이트 바로가기</a>
+- 🖥 <strong><a href="https://tattooyou.kro.kr/">배포 사이트 바로가기</a></strong>
 
 <br/>
 
-- 기술 스택
+- <strong>기술 스택</strong>
   
     <div align="center">
-      <img src="/tech-stack.png">
+      <img src="/tech-stack.png" >
     </div>
+
+<br/>
