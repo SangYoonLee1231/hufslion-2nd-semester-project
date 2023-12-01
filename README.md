@@ -2,4 +2,9 @@
 
 ### AR 타투 서비스 - 'TATTOo YOu'
 
-- <a href="https://tattooyou.kro.kr/">배포 사이트 바로가기</a>
+<img src="" />
+
+- 📽 <a href="https://youtu.be/ZBCXFvvFYyo">시연 영상</a>
+
+- 🖥 <a href="https://tattooyou.kro.kr/">배포 사이트 바로가기</a>
+
