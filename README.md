@@ -2,7 +2,7 @@
 
 ### AR 타투 서비스 - 'TATTOo YOu'
 
-<img src="" />
+<img src="/presentation-title.png" />
 
 - 📽 <a href="https://youtu.be/ZBCXFvvFYyo">시연 영상</a>
 
