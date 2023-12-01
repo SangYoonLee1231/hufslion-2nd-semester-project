@@ -8,3 +8,10 @@
 
 - 🖥 <a href="https://tattooyou.kro.kr/">배포 사이트 바로가기</a>
 
+<br/>
+
+- 기술 스택
+  
+    <div align="center">
+      <img src="/tech-stack.png">
+    </div>
